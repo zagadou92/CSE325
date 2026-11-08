@@ -275,3 +275,14 @@ C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\obj\Debug\net8.0\refint\MvcMovie
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\publish\web.config
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\web.config
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\MvcMovie.deps.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\MvcMovie.runtimeconfig.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\publish\appsettings.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\publish\MvcMovie.deps.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Debug\net8.0\publish\publish\MvcMovie.runtimeconfig.json
