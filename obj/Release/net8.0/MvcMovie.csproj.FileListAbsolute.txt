@@ -281,3 +281,8 @@ C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\appse
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\appsettings.json
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\MvcMovie.deps.json
 C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\MvcMovie.runtimeconfig.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\publish\web.config
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\publish\MvcMovie.deps.json
+C:\Users\US`ER\Downloads\cse325-week02\MvcMovie\bin\Release\net8.0\publish\publish\MvcMovie.runtimeconfig.json
